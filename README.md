@@ -2,7 +2,7 @@
   <img src="https://s-m.com.sa/ar/images/logo.png" />
 </p>
 
-<span style="color: green"> Some green text </span>
+<code style="color : blue">text</code>
 
 # **Arduino-UNO**
 
