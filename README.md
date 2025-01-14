@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://s-m.com.sa/ar/images/logo.png" />
 </p>
-
+<span style="color: green"> Some green text </span>
 # **Arduino-UNO** `#FFFF00`
 
 ## **Introduction**
