@@ -27,6 +27,11 @@
 ### Code
 <p align="center" >
   <ins> <b> Step I </b> </ins>
+  ```
+git status
+git add
+git commit
+```
 </p>
 
 <p align="center" >
