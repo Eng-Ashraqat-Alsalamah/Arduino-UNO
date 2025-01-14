@@ -1,4 +1,6 @@
-<p style="background-color: lightgray">
+<div style="background: url('https://via.placeholder.com/600x100') no-repeat center; padding: 20px;">
+This text is over a background image.
+</div>
 # **Arduino-UNO**
 
 ## **Introduction**
@@ -28,7 +30,7 @@
 > [!TIP]
 > The most important thing is to have fun!
 
-</p>
+
 
 
 
