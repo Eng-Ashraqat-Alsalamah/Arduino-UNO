@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://some_place.com/image.png](https://s-m.com.sa/ar/images/logo.png" />
+  <img src="[http://some_place.com/image.png](https://s-m.com.sa/ar/images/logo.png](http://some_place.com/image.png)" />
 </p>
 
 # **Arduino-UNO**
