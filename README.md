@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s-m.com.sa/ar/images/logo.png" />
+  <img src="https://s-m.com.sa/ar/images/logo.png" /> <h1 align="center"; color="blue">Arduino UNO</h1>
 
 <h1 align="center"; color="blue">Arduino UNO</h1>
 
