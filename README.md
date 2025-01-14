@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
   <img src="https://s-m.com.sa/ar/images/logo.png" />
 </p>
 
