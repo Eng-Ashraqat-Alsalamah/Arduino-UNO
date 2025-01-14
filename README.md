@@ -16,10 +16,16 @@
 | Wire    | Desc       | <img src="https://s-m.com.sa/ar/images/logo.png" />     |
 
 
-
-
 ### Printable Parts
+| Component | Function | Picture |
+| :---:        |     :---:      |          :---: |
+| Arduino   | Desc     | <img src="https://s-m.com.sa/ar/images/logo.png" />    |
+| Wire    | Desc       | <img src="https://s-m.com.sa/ar/images/logo.png" />     |
 ### Tools
+| Component | Function | Picture |
+| :---:        |     :---:      |          :---: |
+| Arduino   | Desc     | <img src="https://s-m.com.sa/ar/images/logo.png" />    |
+| Wire    | Desc       | <img src="https://s-m.com.sa/ar/images/logo.png" />     |
 
 ## **Methodology**
 ### Circuit Connection
