@@ -1,5 +1,4 @@
-<body style="background-color:white;">
-
+<p style="background-color: lightgray; color: black; padding: 10px; border-radius: 5px;">
 # **Arduino-UNO**
 
 ## **Introduction**
@@ -29,6 +28,8 @@
 > [!TIP]
 > The most important thing is to have fun!
 
-</body>
+</p>
+
+
 
 
