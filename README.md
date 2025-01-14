@@ -1,8 +1,8 @@
-# **Arduino-UNO**
+<p align="center">
+  <img src="http://some_place.com/image.png](https://s-m.com.sa/ar/images/logo.png" />
+</p>
 
-<div style="background: url('https://w0.peakpx.com/wallpaper/506/235/HD-wallpaper-white-hexagon-geometric-shapes-white-aesthetic-thumbnail.jpg') no-repeat center; padding: 20px;">
-This text is over a background image.
-</div>
+# **Arduino-UNO**
 
 ## **Introduction**
 
