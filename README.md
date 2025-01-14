@@ -1,6 +1,6 @@
-<p align="center">
+<h align="center">
   <img src="https://s-m.com.sa/ar/images/logo.png" />
-</p>
+</h>
 
 # **Arduino-UNO**
 
