@@ -13,9 +13,9 @@
 
 ## **Methodology**
 ### Circuit Connection
- ####**<p align="center">
- <ins> Step I </ins>
-</p>**
+<p align="center">
+ <ins># **Step I** </ins>
+</p>
 
 - Step II:
 ### Code
