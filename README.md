@@ -1,6 +1,8 @@
 # **Arduino-UNO**
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://w0.peakpx.com/wallpaper/506/235/HD-wallpaper-white-hexagon-geometric-shapes-white-aesthetic-thumbnail.jpg)
+<div style="background: url('https://w0.peakpx.com/wallpaper/506/235/HD-wallpaper-white-hexagon-geometric-shapes-white-aesthetic-thumbnail.jpg') no-repeat center; padding: 20px;">
+This text is over a background image.
+</div>
 
 ## **Introduction**
 
