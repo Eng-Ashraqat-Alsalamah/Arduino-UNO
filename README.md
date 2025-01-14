@@ -1,4 +1,4 @@
-<p style="background-color: lightgray; color: black; padding: 10px; border-radius: 5px;">
+<p style="background-color: lightgray">
 # **Arduino-UNO**
 
 ## **Introduction**
