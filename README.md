@@ -2,7 +2,7 @@
   <img src="https://s-m.com.sa/ar/images/logo.png" />
 </p>
 
-# **Arduino-UNO**
+# **Arduino-UNO** `#0969DA`
 
 ## **Introduction**
 
