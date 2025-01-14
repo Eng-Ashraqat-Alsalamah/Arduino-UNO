@@ -13,7 +13,10 @@
 
 ## **Methodology**
 ### Circuit Connection
+<p align="center">
 - Step I:
+</p>
+
 - Step II:
 ### Code
 - Step I:
