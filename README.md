@@ -69,7 +69,9 @@ git commit
 > Useful information that users should know, even when skimming content.
 
 ## **References**
+
 [^1]: Ref
+
 [^2]: Ref
 
 
