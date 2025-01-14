@@ -1,3 +1,5 @@
+<body style="background-color:white;">
+
 # **Arduino-UNO**
 
 ## **Introduction**
@@ -26,3 +28,7 @@
 ## **Conclusion**
 > [!TIP]
 > The most important thing is to have fun!
+
+</body>
+
+
