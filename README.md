@@ -14,7 +14,7 @@
 ## **Methodology**
 ### Circuit Connection
 <p align="center">
-- Step I:
+ #### **<ins> Step I </ins>**
 </p>
 
 - Step II:
