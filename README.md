@@ -17,16 +17,19 @@
 ## **Methodology**
 ### Circuit Connection
 <p align="center" >
-  <ins> <b> Step I </b>
-        <b> Step II </b>
-  </ins>
-  
+  <ins> <b> Step I </b> </ins>
+</p>
+
+<p align="center" >
+  <ins> <b> Step II </b> </ins>
 </p>
 
 ### Code
 <p align="center" >
- <ins> <b> Step I </b> </ins>
+  <ins> <b> Step I </b> </ins>
+</p>
 
+<p align="center" >
   <ins> <b> Step II </b> </ins>
 </p>
 
