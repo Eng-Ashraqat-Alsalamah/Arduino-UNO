@@ -13,8 +13,8 @@
 
 ## **Methodology**
 ### Circuit Connection
-<p align="center">
- <ins># **Step I** </ins>
+<p align="center" >
+ <ins> <b> Step I </b> </ins>
 </p>
 
 - Step II:
