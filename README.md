@@ -43,6 +43,10 @@ git commit
 > [!TIP]
 > The most important thing is to have fun!
 
+## **References**
+[^1]: Ref
+[^2]: Ref
+
 
 
 
