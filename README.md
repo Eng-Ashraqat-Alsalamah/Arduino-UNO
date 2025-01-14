@@ -2,8 +2,6 @@
   <img src="https://s-m.com.sa/ar/images/logo.png" />
 </p>
 
-<code style="color : blue">text</code>
-
 # **Arduino-UNO**
 
 ## **Introduction**
