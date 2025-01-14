@@ -69,6 +69,9 @@ git commit
 > Useful information that users should know, even when skimming content.
 
 ## **References**
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
 
 [^1]: Ref
 
