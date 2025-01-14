@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://s-m.com.sa/ar/images/logo.png" />
 
-<h>Wow</h>
 # **Arduino-UNO**
 
 ## **Introduction**
@@ -19,12 +18,16 @@
 ### Circuit Connection
 <p align="center" >
  <ins> <b> Step I </b> </ins>
+
+  <ins> <b> Step II </b> </ins>
 </p>
 
-- Step II:
 ### Code
-- Step I:
-- Step II:
+<p align="center" >
+ <ins> <b> Step I </b> </ins>
+
+  <ins> <b> Step II </b> </ins>
+</p>
 
 
 ## **Conclusion**
