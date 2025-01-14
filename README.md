@@ -9,11 +9,6 @@
 
 ## **Components**
 ### Non-Printable Parts
-| Component | Function | Picture |
-| :---         |     :---:      |          ---: |
-| Arduino   | Desc     | git status    |
-| Wire    | Desc       | git diff      |
-
 
 <table>
   <tr>
@@ -28,6 +23,15 @@
   </td>
   </tr>
 </table>
+
+
+| Component | Function | Picture |
+| :---         |     :---:      |          ---: |
+| Arduino   | Desc     | git status    |
+| Wire    | Desc       | git diff      |
+
+
+
 
 ### Printable Parts
 ### Tools
