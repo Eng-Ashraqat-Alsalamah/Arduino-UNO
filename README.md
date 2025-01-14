@@ -11,7 +11,7 @@
 ### Non-Printable Parts
 
 | Component | Function | Picture |
-| :---         |     :---:      |          ---: |
+| :---:        |     :---:      |          :---: |
 | Arduino   | Desc     | <img src="https://s-m.com.sa/ar/images/logo.png" />    |
 | Wire    | Desc       | <img src="https://s-m.com.sa/ar/images/logo.png" />     |
 
